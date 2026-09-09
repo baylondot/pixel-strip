@@ -1,9 +1,0 @@
-pyproject.toml
-src/pixel_strip.egg-info/PKG-INFO
-src/pixel_strip.egg-info/SOURCES.txt
-src/pixel_strip.egg-info/cli.py
-src/pixel_strip.egg-info/dependency_links.txt
-src/pixel_strip.egg-info/entry_points.txt
-src/pixel_strip.egg-info/requires.txt
-src/pixel_strip.egg-info/top_level.txt
-src/pixelstrip/__init__.py
