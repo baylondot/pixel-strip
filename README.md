@@ -15,6 +15,7 @@ Production-oriented batch background removal and image normalization for compute
 - Uses CUDA automatically when a CUDA-enabled ONNX Runtime provider is available; otherwise CPU is used.
 
 ## Install
+hh
 
 Python 3.10+ is required.
 
